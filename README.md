@@ -1,7 +1,7 @@
 # SU MIN LEE 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminjeff)](https://solved.ac/suminjeff/)
 
-### Tech Stack
+### Tech Stack 🛠
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Djagno](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
