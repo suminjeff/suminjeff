@@ -24,6 +24,7 @@
 ![Styled-Components](https://img.shields.io/badge/styled_components-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ### Database
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-150458.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data
