@@ -1,5 +1,3 @@
-
-# SU MIN LEE 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suminjeff)](https://solved.ac/suminjeff/)
 
 ### Language
